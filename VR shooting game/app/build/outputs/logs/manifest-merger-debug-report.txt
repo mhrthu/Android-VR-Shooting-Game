@@ -57,7 +57,7 @@ ADDED from C:\Users\Haoran\Documents\GitHub\VR\VR shooting game\app\src\main\And
 		ADDED from C:\Users\Haoran\Documents\GitHub\VR\VR shooting game\app\src\main\AndroidManifest.xml:21:27-74
 uses-sdk
 INJECTED from C:\Users\Haoran\Documents\GitHub\VR\VR shooting game\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [VR shooting game:Rajawali-master-fixed:unspecified] C:\Users\Haoran\Documents\GitHub\VR\VR shooting game\app\build\intermediates\exploded-aar\VR shooting game\Rajawali-master-fixed\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [VR shooting game:Rajawali-master-fixed:unspecified] C:\Users\Haoran\Documents\GitHub\VR\VR shooting game\app\build\intermediates\exploded-aar\VR shooting game\Rajawali-master-fixed\unspecified\AndroidManifest.xml:10:5-12:41
 	android:targetSdkVersion
 		INJECTED from C:\Users\Haoran\Documents\GitHub\VR\VR shooting game\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Haoran\Documents\GitHub\VR\VR shooting game\app\src\main\AndroidManifest.xml

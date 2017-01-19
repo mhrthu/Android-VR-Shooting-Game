@@ -828,4 +828,6 @@ public class Object3D extends ATransformable3D implements Comparable<Object3D>, 
 	public TYPE getFrameTaskType() {
 		return AFrameTask.TYPE.OBJECT3D;
 	}
+
+
 }

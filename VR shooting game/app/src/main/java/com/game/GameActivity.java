@@ -68,7 +68,7 @@ public class GameActivity extends RajawaliVRActivity {
 							public void run() {
 								// update TextView here!
 								score.setText("\t\t\t" + mRenderer.getScore() + "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" + mRenderer.getScore());
-								if(mRenderer.getScore()==50){
+								if(mRenderer.getScore()==200){
 									ll.removeAllViews();
 									ll.addView(win);
 									//score.setText("\t\t\t" + mRenderer.getScore()+"\n\t\t\t Victory");
@@ -81,6 +81,6 @@ public class GameActivity extends RajawaliVRActivity {
 			}
 		};
 
-		t.start();
+		//t.start();
 	}
 }

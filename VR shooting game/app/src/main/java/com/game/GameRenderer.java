@@ -45,14 +45,19 @@ public class GameRenderer extends RajawaliVRRenderer {
 	private static final float[] POS_MATRIX_MULTIPLY_VEC = {0, 0, 0, 1.0f};
 	private static final float YAW_LIMIT = 0.2f;
 	private static final float PITCH_LIMIT = 0.2f;
-	private Object3D  currentObj;
-	private int count = 0;
+	private Object3D  currentObj  = new Object3D();
+    private Object3D  backup  = new Object3D();
+    private int count = 0;
 	private int score = 0;
 	private int pathselection = 0;
+    private boolean init = false;
 	LoaderOBJ hellfireobj = new LoaderOBJ(mContext.getResources(), mTextureManager, R.raw.hellfire_obj);
 	LoaderOBJ spaceshipobj = new LoaderOBJ(mContext.getResources(), mTextureManager, R.raw.spaceship_obj);
-	LoaderOBJ ewingobj = new LoaderOBJ(mContext.getResources(), mTextureManager, R.raw.ewing_obj);
-	public GameRenderer(Context context) {
+    LoaderAWD capital= new LoaderAWD(mContext.getResources(), mTextureManager, R.raw.capital);
+    LoaderAWD darkfighter = new LoaderAWD(mContext.getResources(), mTextureManager, R.raw.dark_fighter);
+
+
+    public GameRenderer(Context context) {
 		super(context);
 		this.mHeadTracker = super.mHeadTracker;
 		this.mHeadTransform = super.mHeadTransform;
@@ -68,10 +73,26 @@ public class GameRenderer extends RajawaliVRRenderer {
 			count ++;
 			Log.v("is at center: ", Integer.toString(count));
 			if (count >= 100) {
-				getCurrentScene().removeChild(currentObj);
-						Log.v("remove successed", ":");
-				//currentObj.destroy();
-				//Object3D  currentObj;
+//				//getCurrentScene().removeChild(currentObj);
+//				try {
+//					getCurrentScene().removeChild(currentObj);
+//                    getCurrentScene().removeChild(currentObj);
+//                    getCurrentScene().removeChild(currentObj);
+//                    getCurrentScene().removeChild(currentObj);
+//                    getCurrentScene().removeChild(currentObj);
+//                    getCurrentScene().removeChild(currentObj);
+//                    getCurrentScene().removeChild(currentObj);
+//                    getCurrentScene().removeChild(currentObj);
+//                    getCurrentScene().removeChild(currentObj);
+//
+//                    //currentObj.destroy();
+//					//Object3D  currentObj;
+//				} catch(Exception e) {
+//					e.printStackTrace();
+//				}
+
+				//Log.v("remove successed", ":");
+
 						setScore(10);
 						setObject();
 						setAnim();
@@ -87,8 +108,9 @@ public class GameRenderer extends RajawaliVRRenderer {
 		try {
 			hellfireobj.parse();
 			spaceshipobj.parse();
-			ewingobj.parse();
-		} catch(Exception e) {
+            capital.parse();
+            darkfighter.parse();
+    		} catch(Exception e) {
 			e.printStackTrace();
 		}
 		DirectionalLight light = new DirectionalLight(0.2f, -1f, 0f);
@@ -109,12 +131,15 @@ public class GameRenderer extends RajawaliVRRenderer {
 			getCurrentScene().setSkybox(R.drawable.posx, R.drawable.negx, R.drawable.posy, R.drawable.negy, R.drawable.posz, R.drawable.negz);
 			setObject();
 			setAnim();
+            init = true;
 			//X: right
 			//Y: height
 			//Z: back
 		} catch(Exception e) {
 			e.printStackTrace();
 		}
+
+
 
 		super.initScene();
 	}
@@ -129,56 +154,60 @@ public class GameRenderer extends RajawaliVRRenderer {
 		anim.play();
 	}
 	public void setObject() {
+        if(init){
+            getCurrentScene().removeChild(currentObj);
+            //Object3D temp = currentObj;
+            currentObj = backup;
+            //temp.destroy();
+        }
 		int index =(int) ((Math.random()) * 4);
 		Log.v("new object added,index ", Integer.toString(index));
 		LoaderOBJ loaderobj;
-		LoaderAWD awd;
-		currentObj = spaceshipobj.getParsedObject();
+		Object3D currObj;
 
 		try{
 			switch (index) {
 
 				case 0:
 					loaderobj = spaceshipobj;
-					currentObj = loaderobj.getParsedObject();
-					currentObj.setScale(0.3);
+					currObj = loaderobj.getParsedObject();
+					currObj.setScale(0.3);
 					break;
 				case 1:
 					loaderobj = hellfireobj;
-					currentObj = loaderobj.getParsedObject();
-					currentObj.setScale(0.3);
+					currObj = loaderobj.getParsedObject();
+					currObj.setScale(0.3);
 					//loaderobj = ewingobj;
 					break;
 				case 2:
-					awd= new LoaderAWD(mContext.getResources(), mTextureManager, R.raw.capital);
-					awd.parse();
-					Material capitalMaterial = new Material();
-					capitalMaterial.setDiffuseMethod(new DiffuseMethod.Lambert());
-					capitalMaterial.setColorInfluence(0);
-					capitalMaterial.enableLighting(true);
-					capitalMaterial.addTexture(new Texture("capitalTex", R.drawable.hullw));
-					capitalMaterial.addTexture(new NormalMapTexture("capitalNormTex", R.drawable.hulln));
-					currentObj = awd.getParsedObject();
-					currentObj.setMaterial(capitalMaterial);
+                    Material capitalMaterial = new Material();
+                    capitalMaterial.setDiffuseMethod(new DiffuseMethod.Lambert());
+                    capitalMaterial.setColorInfluence(0);
+                    capitalMaterial.enableLighting(true);
+                    capitalMaterial.addTexture(new Texture("capitalTex", R.drawable.hullw));
+                    capitalMaterial.addTexture(new NormalMapTexture("capitalNormTex", R.drawable.hulln));
+					currObj = capital.getParsedObject();
+					currObj.setMaterial(capitalMaterial);
 					break;
 				case 3:
-					awd= new LoaderAWD(mContext.getResources(), mTextureManager, R.raw.dark_fighter);
-					awd.parse();
 					Material darkFighterMaterial = new Material();
 					darkFighterMaterial.setDiffuseMethod(new DiffuseMethod.Lambert());
 					darkFighterMaterial.setColorInfluence(0);
 					darkFighterMaterial.enableLighting(true);
 					darkFighterMaterial.addTexture(new Texture("darkFighterTex", R.drawable.dark_fighter_6_color));
 
-					currentObj = awd.getParsedObject();
-					currentObj.setMaterial(darkFighterMaterial);
+					currObj = darkfighter.getParsedObject();
+					currObj.setMaterial(darkFighterMaterial);
 					break;
 				default:
 					loaderobj = spaceshipobj;
-					currentObj = loaderobj.getParsedObject();
+					currObj = loaderobj.getParsedObject();
 					break;
 			}
-
+            Object3D temp = myClone(currObj);
+            currentObj = temp;
+            //backup = currObj;
+            getCurrentScene().addChild(currentObj);
 		}catch(Exception e){
 
 		}
@@ -188,7 +217,7 @@ public class GameRenderer extends RajawaliVRRenderer {
 		//currentObj.setRotY(90);
 		//currentObj.setZ(-3);//front is negative   back is positive
 		//currentObj.setScale(0.3);
-		getCurrentScene().addChild(currentObj);
+		//getCurrentScene().addChild(currentObj);
 	}
 	private CatmullRomCurve3D choosepath(){
 		int n =(int) ((Math.random()) * 3);
@@ -200,37 +229,47 @@ public class GameRenderer extends RajawaliVRRenderer {
 		CatmullRomCurve3D path = new CatmullRomCurve3D();
 		switch (n){
 			case 0:{
-				path.addPoint(new Vector3(0, -5, -10));//points that object will go through
+				path.addPoint(new Vector3(10, -5, -10));//points that object will go through
 				path.addPoint(new Vector3(10, -5, 0));
-				path.addPoint(new Vector3(0, -4, 8));
-				path.addPoint(new Vector3(-16, -6, 0));
+				//path.addPoint(new Vector3(0, -4, 8));
+				//path.addPoint(new Vector3(-16, -6, 0));
 				break;
 			}
 			case 1:{
-				path.addPoint(new Vector3(-10, 2, -30));//points that object will go through
+                path.addPoint(new Vector3(10, -5, -10));
+                path.addPoint(new Vector3(10, -5, 0));
+
+/*
+                path.addPoint(new Vector3(-10, 2, -30));//points that object will go through
 				path.addPoint(new Vector3(-10, 0, -20));
 				path.addPoint(new Vector3(-10, -2, -0));
 				path.addPoint(new Vector3(5, -2, 20));
 				path.addPoint(new Vector3(10, 0, 0));
 				path.addPoint(new Vector3(10, -2, -10));
 				path.addPoint(new Vector3(10, -5, -30));
+				*/
 				break;
 			}
 			case 2:{
-				path.addPoint(new Vector3(-30, 2, 10));//points that object will go through
+                path.addPoint(new Vector3(10, -5, -10));
+                path.addPoint(new Vector3(10, -5, 0));
+
+
+/*				path.addPoint(new Vector3(-30, 2, 10));//points that object will go through
 				path.addPoint(new Vector3(-20, 0, 10));
 				path.addPoint(new Vector3(0, -2, 10));
 				path.addPoint(new Vector3(20, -2, -5));
 				path.addPoint(new Vector3(0, 0, 10));
 				path.addPoint(new Vector3(-10, -2, 10));
 				path.addPoint(new Vector3(-30, -5, 10));
+				*/
 				break;
 			}
 			default:{
-				path.addPoint(new Vector3(0, 5, 10));//points that object will go through
-				path.addPoint(new Vector3(10, 5, 0));
-				path.addPoint(new Vector3(0, 4, 8));
-				path.addPoint(new Vector3(16, 6, 0));
+				path.addPoint(new Vector3(10, -5, -10));//points that object will go through
+			//	path.addPoint(new Vector3(10, -5, 0));
+			//	path.addPoint(new Vector3(0, -4, 8));
+			//	path.addPoint(new Vector3(-16, -6, 0));
 				path.isClosedCurve(true);
 				break;
 			}
@@ -331,5 +370,14 @@ public class GameRenderer extends RajawaliVRRenderer {
 	public Integer getScore() {
 		return score;
 	}
+
+    private Object3D myClone(Object3D obj){
+        Object3D newObj=obj.clone();
+
+        for(int i=0;i<obj.getNumChildren();i++){
+            newObj.addChild(obj.getChildAt(i).clone());
+        }
+        return newObj;
+    }
 }
 
