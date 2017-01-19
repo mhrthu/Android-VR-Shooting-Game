@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jan 18 18:36:57 CST 2017
+#Wed Jan 18 18:41:49 CST 2017
 5.base=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_
 42.base=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_
 32.set=ANDROID_RESOURCE

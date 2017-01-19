@@ -5,29 +5,29 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="182581933200952"
+    timestamp="182895944973132"
     token="-4738045859617448750"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="250" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="5335" />
+        duration="3703" />
     <task
         name="verifier"
-        duration="1587" />
+        duration="1147" />
 
     <artifact
         location="C:\Users\Haoran\Documents\GitHub\VR\VR shooting game\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="182581933200952"
+        timestamp="182895944973132"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Haoran\Documents\GitHub\VR\VR shooting game\app\build\outputs\apk\app-debug.apk"
