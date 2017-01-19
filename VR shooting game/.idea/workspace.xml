@@ -7,51 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32267bde-8aa8-41c2-bbb7-e70203435086" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/hs_err_pid19276.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/hs_err_pid21212.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/hs_err_pid57428.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/hs_err_pid59252.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/hs_err_pid59268.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/hs_err_pid59408.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/hs_err_pid59596.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/hs_err_pid59768.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/hs_err_pid59896.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/hs_err_pid60152.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/hs_err_pid6040.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/hs_err_pid8588.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/replay_pid21212.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/replay_pid59252.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/replay_pid59268.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/replay_pid59408.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/replay_pid59596.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/replay_pid59768.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/replay_pid59896.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/replay_pid60152.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/replay_pid6040.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/replay_pid8588.log" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/android_android_19.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_android_21.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rajawali-master-fixed/Rajawali-master-fixed.iml" afterPath="$PROJECT_DIR$/Rajawali-master-fixed/Rajawali-master-fixed.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
     </list>
     <ignored path="VR shooting game.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -2869,7 +2825,14 @@
       <option name="project" value="LOCAL" />
       <updated>1484786606555</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Changed app icon">
+      <created>1484787585167</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1484787585167</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
