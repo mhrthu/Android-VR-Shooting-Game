@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jan 18 18:41:06 CST 2017
+#Wed Jan 18 19:01:22 CST 2017
 5.base=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_
 42.base=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_
 32.set=ANDROID_RESOURCE
@@ -32,14 +32,14 @@
 21.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\groundnor.jpg
 16.base=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_
 49.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\minimal_vertex_shader.glsl
-31.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\ewingwng.jpg
+31.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\ic_launcher.png
 24.set=ANDROID_RESOURCE
 25.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\ewngnose.jpg
 35.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\dark_fighter.awd
 13.set=ANDROID_RESOURCE
 19.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\color_threshold_shader.glsl
 2.base=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_
-29.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\space_cruiser.awd
+29.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\propulsortext.png
 11.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\posz.jpg
 53.set=ANDROID_RESOURCE
 39.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\terrain3.jpg
@@ -157,14 +157,14 @@ count=56
 20.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\ewing_obj
 15.base=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_
 48.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\spaceshiptextura.png
-30.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\propulsortext.png
+30.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\ewingwng.jpg
 14.set=ANDROID_RESOURCE
 24.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\ewngblu.jpg
 34.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\hellfire_mtl
 18.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\negy.jpg
 1.base=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_
 54.set=ANDROID_RESOURCE
-28.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+28.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\space_cruiser.awd
 10.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\propulsoruv.png
 5.set=ANDROID_RESOURCE
 38.file=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\spaceshipuv.png

@@ -48,6 +48,7 @@ public class GameRenderer extends RajawaliVRRenderer {
 	private Object3D  currentObj;
 	private int count = 0;
 	private int score = 0;
+	private int pathselection = 0;
 	LoaderOBJ hellfireobj = new LoaderOBJ(mContext.getResources(), mTextureManager, R.raw.hellfire_obj);
 	LoaderOBJ spaceshipobj = new LoaderOBJ(mContext.getResources(), mTextureManager, R.raw.spaceship_obj);
 	LoaderOBJ ewingobj = new LoaderOBJ(mContext.getResources(), mTextureManager, R.raw.ewing_obj);
@@ -190,7 +191,12 @@ public class GameRenderer extends RajawaliVRRenderer {
 		getCurrentScene().addChild(currentObj);
 	}
 	private CatmullRomCurve3D choosepath(){
-		int n =(int) ((Math.random()) * 4);
+		int n =(int) ((Math.random()) * 3);
+
+		while(pathselection==n){
+			n =(int) ((Math.random()) * 3);
+		}
+		pathselection = n;
 		CatmullRomCurve3D path = new CatmullRomCurve3D();
 		switch (n){
 			case 0:{
@@ -221,10 +227,10 @@ public class GameRenderer extends RajawaliVRRenderer {
 				break;
 			}
 			default:{
-				path.addPoint(new Vector3(0, -5, -10));//points that object will go through
-				path.addPoint(new Vector3(10, -5, 0));
-				path.addPoint(new Vector3(0, -4, 8));
-				path.addPoint(new Vector3(-16, -6, 0));
+				path.addPoint(new Vector3(0, 5, 10));//points that object will go through
+				path.addPoint(new Vector3(10, 5, 0));
+				path.addPoint(new Vector3(0, 4, 8));
+				path.addPoint(new Vector3(16, 6, 0));
 				path.isClosedCurve(true);
 				break;
 			}
