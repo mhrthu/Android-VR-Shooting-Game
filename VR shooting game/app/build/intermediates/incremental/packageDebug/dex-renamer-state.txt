@@ -1,7 +1,7 @@
-#Wed Jan 18 17:59:08 CST 2017
-base.0=D\:\\VR shooting game\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bfad2babb19c804f80d8d5cee008b67cbd901f1b
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=D\:\\VR shooting game\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b589453f8d5102f12420339e9ec321079180fa3e\\classes.dex
-base.1=D\:\\VR shooting game\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b589453f8d5102f12420339e9ec321079180fa3e
-file.0=D\:\\VR shooting game\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bfad2babb19c804f80d8d5cee008b67cbd901f1b\\classes.dex
+#Wed Jan 18 18:36:57 CST 2017
+base.0=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_674a5ccb44063e7ea0baa863a17ca79cdabbe9cc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0e27fc2957c7901ba66697e26155dbaea6f2faf7\\classes.dex
+base.1=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0e27fc2957c7901ba66697e26155dbaea6f2faf7
+file.0=C\:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_674a5ccb44063e7ea0baa863a17ca79cdabbe9cc\\classes.dex

@@ -1,85 +1,5 @@
 [
     {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ewngtex.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\ewngtex.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\terrain2.jpg",
-        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\terrain2.jpg"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\posx.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\posx.jpg"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\terrain2.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\terrain2.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\terrain.jpg",
-        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\terrain.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\negz.jpg",
-        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\negz.jpg"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ewingwng.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\ewingwng.jpg"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\hullw.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\hullw.jpg"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\terrain.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\terrain.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\hullw.jpg",
-        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\hullw.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ewngtex.jpg",
-        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\ewngtex.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ewingwng.jpg",
-        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\ewingwng.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\terrain3.jpg",
-        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\terrain3.jpg"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\terrain3.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\terrain3.jpg"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\camaro.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\camaro.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\posy.jpg",
-        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\posy.jpg"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\posy.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\posy.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\negx.jpg",
-        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\negx.jpg"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\space_cruiser_4_color_1.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\space_cruiser_4_color_1.jpg"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\negx.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\negx.jpg"
-    },
-    {
         "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ewngblu.jpg",
         "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\ewngblu.jpg"
     },
@@ -96,6 +16,18 @@
         "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\camaro.jpg"
     },
     {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\terrain2.jpg",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\terrain2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\terrain.jpg",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\terrain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\negz.jpg",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\negz.jpg"
+    },
+    {
         "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ewngnose.jpg",
         "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\ewngnose.jpg"
     },
@@ -104,72 +36,52 @@
         "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\hulln.bmp"
     },
     {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\hulln.bmp",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\hulln.bmp"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ewngnose.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\ewngnose.jpg"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ewingbod.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\ewingbod.jpg"
-    },
-    {
         "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ewngwngr.jpg",
         "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\ewngwngr.jpg"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\posz.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\posz.jpg"
     },
     {
         "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\space_cruiser_4_color_1.jpg",
         "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\space_cruiser_4_color_1.jpg"
     },
     {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\hullw.jpg",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\hullw.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ewingwng.jpg",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\ewingwng.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ewngtex.jpg",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\ewngtex.jpg"
+    },
+    {
         "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\skin2.jpg",
         "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\skin2.jpg"
     },
     {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\negz.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\negz.jpg"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\groundnor.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\groundnor.jpg"
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\terrain3.jpg",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\terrain3.jpg"
     },
     {
         "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\negy.jpg",
         "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\negy.jpg"
     },
     {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\skin2.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\skin2.jpg"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ewngside.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\ewngside.jpg"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ewngwngr.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\ewngwngr.jpg"
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\posy.jpg",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\posy.jpg"
     },
     {
         "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ewingbod.jpg",
         "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\ewingbod.jpg"
     },
     {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ewngblu.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\ewngblu.jpg"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\negy.jpg",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\negy.jpg"
-    },
-    {
         "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\posx.jpg",
         "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\posx.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\negx.jpg",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\negx.jpg"
     },
     {
         "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ewngside.jpg",
