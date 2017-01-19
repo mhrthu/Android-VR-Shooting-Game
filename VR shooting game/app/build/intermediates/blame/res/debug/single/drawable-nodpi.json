@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\dark_fighter_6_color.png",
+        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\dark_fighter_6_color.png"
+    },
+    {
+        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\hellfire.png",
+        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\hellfire.png"
+    },
+    {
+        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\propulsoruv.png",
+        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\propulsoruv.png"
+    },
+    {
+        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\propulsortext.png",
+        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\propulsortext.png"
+    },
+    {
+        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\ground.png",
+        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\ground.png"
+    },
+    {
+        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\spaceshiptextura.png",
+        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\spaceshiptextura.png"
+    },
+    {
+        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\spaceshipuv.png",
+        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\spaceshipuv.png"
+    },
+    {
+        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\terrain1.png",
+        "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-nodpi\\terrain1.png"
+    }
+]
