@@ -1,9 +1,5 @@
 [
     {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hellfire_obj",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\raw\\hellfire_obj"
-    },
-    {
         "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\minimal_vertex_shader.glsl",
         "source": "D:\\VR shooting game\\app\\build\\intermediates\\exploded-aar\\VR shooting game\\Rajawali-master-fixed\\unspecified\\res\\raw\\minimal_vertex_shader.glsl"
     },
@@ -24,6 +20,10 @@
         "source": "D:\\VR shooting game\\app\\build\\intermediates\\exploded-aar\\VR shooting game\\Rajawali-master-fixed\\unspecified\\res\\raw\\blend_screen_fragment_shader.glsl"
     },
     {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fog_fragment_shader.glsl",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\exploded-aar\\VR shooting game\\Rajawali-master-fixed\\unspecified\\res\\raw\\fog_fragment_shader.glsl"
+    },
+    {
         "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dark_fighter.awd",
         "source": "D:\\VR shooting game\\app\\src\\main\\res\\raw\\dark_fighter.awd"
     },
@@ -32,16 +32,12 @@
         "source": "D:\\VR shooting game\\app\\src\\main\\res\\raw\\ewing_mtl"
     },
     {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\spaceship_obj",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\raw\\spaceship_obj"
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\grey_scale_fragment_shader.glsl",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\exploded-aar\\VR shooting game\\Rajawali-master-fixed\\unspecified\\res\\raw\\grey_scale_fragment_shader.glsl"
     },
     {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\space_cruiser.awd",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\raw\\space_cruiser.awd"
-    },
-    {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blur_fragment_shader.glsl",
-        "source": "D:\\VR shooting game\\app\\build\\intermediates\\exploded-aar\\VR shooting game\\Rajawali-master-fixed\\unspecified\\res\\raw\\blur_fragment_shader.glsl"
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ewing_mtl",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\raw\\ewing_mtl"
     },
     {
         "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camaro_mtl",
@@ -52,16 +48,88 @@
         "source": "D:\\VR shooting game\\app\\src\\main\\res\\raw\\hellfire_mtl"
     },
     {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\capital.awd",
-        "source": "D:\\VR shooting game\\app\\src\\main\\res\\raw\\capital.awd"
-    },
-    {
         "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fog_fragment_shader.glsl",
         "source": "D:\\VR shooting game\\app\\build\\intermediates\\exploded-aar\\VR shooting game\\Rajawali-master-fixed\\unspecified\\res\\raw\\fog_fragment_shader.glsl"
     },
     {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sepia_fragment_shader.glsl",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\exploded-aar\\VR shooting game\\Rajawali-master-fixed\\unspecified\\res\\raw\\sepia_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hellfire_mtl",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\raw\\hellfire_mtl"
+    },
+    {
+        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sepia_fragment_shader.glsl",
+        "source": "D:\\VR shooting game\\app\\build\\intermediates\\exploded-aar\\VR shooting game\\Rajawali-master-fixed\\unspecified\\res\\raw\\sepia_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hellfire_obj",
+        "source": "D:\\VR shooting game\\app\\src\\main\\res\\raw\\hellfire_obj"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\space_cruiser.awd",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\raw\\space_cruiser.awd"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camaro_mtl",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\raw\\camaro_mtl"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blend_add_fragment_shader.glsl",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\exploded-aar\\VR shooting game\\Rajawali-master-fixed\\unspecified\\res\\raw\\blend_add_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\capital.awd",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\raw\\capital.awd"
+    },
+    {
+        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\spaceship_obj",
+        "source": "D:\\VR shooting game\\app\\src\\main\\res\\raw\\spaceship_obj"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\spaceship_obj",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\raw\\spaceship_obj"
+    },
+    {
+        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\space_cruiser.awd",
+        "source": "D:\\VR shooting game\\app\\src\\main\\res\\raw\\space_cruiser.awd"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blur_fragment_shader.glsl",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\exploded-aar\\VR shooting game\\Rajawali-master-fixed\\unspecified\\res\\raw\\blur_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blur_fragment_shader.glsl",
+        "source": "D:\\VR shooting game\\app\\build\\intermediates\\exploded-aar\\VR shooting game\\Rajawali-master-fixed\\unspecified\\res\\raw\\blur_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hellfire_obj",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\raw\\hellfire_obj"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camaro_obj",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\raw\\camaro_obj"
+    },
+    {
+        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\capital.awd",
+        "source": "D:\\VR shooting game\\app\\src\\main\\res\\raw\\capital.awd"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\color_threshold_shader.glsl",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\exploded-aar\\VR shooting game\\Rajawali-master-fixed\\unspecified\\res\\raw\\color_threshold_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ewing_obj",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\raw\\ewing_obj"
+    },
+    {
         "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ewing_obj",
         "source": "D:\\VR shooting game\\app\\src\\main\\res\\raw\\ewing_obj"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\spaceship_mtl",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\raw\\spaceship_mtl"
     },
     {
         "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\grey_scale_fragment_shader.glsl",
@@ -72,11 +140,23 @@
         "source": "D:\\VR shooting game\\app\\src\\main\\res\\raw\\spaceship_mtl"
     },
     {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\copy_fragment_shader.glsl",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\exploded-aar\\VR shooting game\\Rajawali-master-fixed\\unspecified\\res\\raw\\copy_fragment_shader.glsl"
+    },
+    {
         "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camaro_obj",
         "source": "D:\\VR shooting game\\app\\src\\main\\res\\raw\\camaro_obj"
     },
     {
-        "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sepia_fragment_shader.glsl",
-        "source": "D:\\VR shooting game\\app\\build\\intermediates\\exploded-aar\\VR shooting game\\Rajawali-master-fixed\\unspecified\\res\\raw\\sepia_fragment_shader.glsl"
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dark_fighter.awd",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\raw\\dark_fighter.awd"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blend_screen_fragment_shader.glsl",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\exploded-aar\\VR shooting game\\Rajawali-master-fixed\\unspecified\\res\\raw\\blend_screen_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\raw\\minimal_vertex_shader.glsl",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\exploded-aar\\VR shooting game\\Rajawali-master-fixed\\unspecified\\res\\raw\\minimal_vertex_shader.glsl"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Haoran\\Documents\\GitHub\\VR\\VR shooting game\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\VR shooting game\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
         "source": "D:\\VR shooting game\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     }
